@@ -1,4 +1,4 @@
-//arrray of the quiz questions, avaialble choices, and correct answers     
+//array of the quiz questions, available choices, and correct answers     
 var questions = [{
         title: "Inside which HTML element do we put the JavaScript?",
         choices: ["unshift( )", "sort( )", "splice( )", "toString( )"],

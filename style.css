@@ -15,8 +15,13 @@ body {
     color: white;
 }
 
+
 div h1 {
-    font-size: 50px;
+    font-size: 72px;
+    background: -webkit-linear-gradient(#eee, rgb(45, 72, 51));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    
 }
 
 div h3 {
