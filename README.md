@@ -31,3 +31,11 @@ THEN the game is over
 WHEN the game is over
 THEN I can save my initials and my score
 ```
+
+## General Info
+
+Coding quiz that consist of multiple choice questions, a timer and highscores. This project was made with HTML, CSS and JavaScript.
+
+## Screen shot
+
+![Screen Shot 2022-10-24 at 6 12 32 PM](https://user-images.githubusercontent.com/113157987/197659221-b99a7213-6372-48c1-b6b9-c3dcca20c603.png)
